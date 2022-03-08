@@ -5,3 +5,6 @@ Then you have the full runnable program. Then build the docker image with that J
 
 How to pass arguments to a Java Jar file:
 https://stackoverflow.com/questions/54429751/pass-command-line-args-to-java-app-spring-boot-running-in-docker
+
+To pass an argument into the Java program, its done like this in Intellij
+![img.png](img.png)
